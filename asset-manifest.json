@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.4452ffca.css",
-    "main.js": "/static/js/main.0783be03.js",
-    "index.html": "/index.html",
-    "main.4452ffca.css.map": "/static/css/main.4452ffca.css.map",
-    "main.0783be03.js.map": "/static/js/main.0783be03.js.map"
+    "main.css": "/fintech-challange-console/static/css/main.4452ffca.css",
+    "main.js": "/fintech-challange-console/static/js/main.2cebb63a.js",
+    "index.html": "/fintech-challange-console/index.html",
+    "main.4452ffca.css.map": "/fintech-challange-console/static/css/main.4452ffca.css.map",
+    "main.2cebb63a.js.map": "/fintech-challange-console/static/js/main.2cebb63a.js.map"
   },
   "entrypoints": [
     "static/css/main.4452ffca.css",
-    "static/js/main.0783be03.js"
+    "static/js/main.2cebb63a.js"
   ]
 }
